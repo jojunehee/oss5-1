@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.box {
+  border: 1px solid red;
+  width: 100px;
+  height: 100px;
+}
+/*https://67296bac6d5fa4901b6d14a6.mockapi.io/oss4-2/parcels*/
